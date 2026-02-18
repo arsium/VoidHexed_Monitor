@@ -12,8 +12,6 @@ Void Hexed Monitor was born from a simple question: is it possible, with  modern
 
 The project will remain closed-source (binaries only) until further notice, and may be commercialized in the future.
 
-It also may contain bugs.
-
 ## Features 
 
 - **TLS 1.3** — fully self-contained, no external dependency
