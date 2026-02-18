@@ -1,5 +1,9 @@
 # Void Hexed Monitor
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arsium/VoidHexed_Monitor/refs/heads/main/VHM.png" alt="description" />
+</p>
+
 The first cross-platform Remote Access Tool built entirely in C#.
 
 ## Goals
