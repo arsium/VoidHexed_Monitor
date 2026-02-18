@@ -47,5 +47,7 @@ list
 >
 > Please note that this software is still in development and may contain bugs.
 
+## UI 
+
 ![Win](https://github.com/arsium/VoidHexed_Monitor/blob/main/VoidHexedBeta.png?raw=true)
 ![Lin](https://github.com/arsium/VoidHexed_Monitor/blob/main/VoidHexedBetaLin.png?raw=true)
