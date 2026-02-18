@@ -46,3 +46,6 @@ list
 > [!NOTE]
 >
 > Please note that this software is still in development and may contain bugs.
+
+![Win](https://github.com/arsium/VoidHexed_Monitor/blob/main/VoidHexedBeta.png)?raw=true)
+![Lin](https://github.com/arsium/VoidHexed_Monitor/blob/main/VoidHexedBetaLin.png)?raw=true)
