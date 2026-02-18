@@ -20,6 +20,7 @@ The project will remain closed-source (binaries only) until further notice, and 
 - **Cross-platform server** — UI runs on both Windows and Linux
 - **Linux client** — currently supported (Windows client in progress)
 - **Standalone client** — no .NET runtime required on the target machine
+- **x64 only
 - The interface might look familiar 😉
 
 ## Commands
