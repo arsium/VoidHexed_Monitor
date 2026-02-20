@@ -54,3 +54,4 @@ list
 
 ![Win](https://github.com/arsium/VoidHexed_Monitor/blob/main/VoidHexedBeta.png?raw=true)
 ![Lin](https://github.com/arsium/VoidHexed_Monitor/blob/main/VoidHexedBetaLin.png?raw=true)
+![WinLin](https://github.com/arsium/VoidHexed_Monitor/blob/main/WindowsAndLinuxClient.png?raw=true)
