@@ -18,7 +18,7 @@ The project will remain closed-source (binaries only) until further notice, and 
 - **Builder & compression** — generate and pack client payloads directly from the server
 - **Auto-reconnect** — client automatically re-establishes connection if lost
 - **Cross-platform server** — UI runs on both Windows and Linux
-- **Linux client** — currently supported (Windows client in progress)
+- **Linux &Windows client**
 - **Standalone client** — no .NET runtime required on the target machine
 - **x64 only**
 - The interface might look familiar 😉
