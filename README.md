@@ -26,34 +26,7 @@ The project will remain closed-source (binaries only) until further notice, and 
 ## Commands
 
 ```
-Default passwords used at certificate generation:
-
-ca : password123
-server : "password456
-client : password789
-
-server <start> <server_password> <ca_password> <port>
-ex : server start password456 password123 5555
-
-build <remote_ip> <remote_port> <client_password> <system> (l or w)
-ex : build 192.168.1.2 5555 password789 l 
-ex : build 192.168.1.2 5555 password789 w 
-
-select <client_hwid>
-ex : select 9D73395970DDA6B40F3B
-
-list selected
-OR
-list
-
-attack l3<target> <threads> <maxpps> <time> <depth>
-ex : attack l3 192.168.1.2 4 10 120 10
-
-Displays list of remote disks
-fm 
-
-Clear currrent selected client
-exit
+See "Commands.pdf"
 ```
 
 > [!NOTE]
